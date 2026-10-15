@@ -1,0 +1,40 @@
+
+===== Meeseeks Box (pid 871) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Programas (pid 871) =====
+1) Mostrar la fecha (date)
+2) Listar esta carpeta (ls -l)
+3) Programa que siempre falla (false)
+4) Escribir un comando
+0) Volver
+Opcion: [pid 872 | ppid 871] Hi, I'm Mr. Meeseeks! Look at Meeeee. (872, 871, 1, 1)
+[pid 872 | ppid 871] I am evaluating request #1: "Programa que siempre falla (false)"
+  [pid 873 | ppid 872] Hi, I'm Mr. Meeseeks! Look at Meeeee. (873, 872, 2, 1)
+  [pid 873 | ppid 872] I am executing request #1: ejecuto "false"
+  [pid 873 | ppid 872] El programa termino con codigo 1 en 0.001 s
+[pid 872 | ppid 871] Codigo 1: el programa fallo.
+[pid 872 | ppid 871] Solicitud #1 NO completada. Adios!
+
+===== Meeseeks Box (pid 871) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 1   Completadas: 0   No completadas: 1
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    Programa que siempre falla (false)     0.0012s   0.0012s  no completada         2
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

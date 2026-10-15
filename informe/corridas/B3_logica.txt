@@ -1,0 +1,60 @@
+
+===== Meeseeks Box (pid 856) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: al azar (0.5 a 5 s)
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: Duracion en segundos (0 = al azar): 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: 1.0 s
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: 
+===== Meeseeks Box (pid 856) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Logica (pid 856) =====
+1) Y (AND) (dificultad 90)
+2) O (OR) (dificultad 90)
+3) O exclusivo (XOR) (dificultad 90)
+4) NO (NOT) (dificultad 90)
+0) Volver
+Opcion: Primer valor (0 = falso, 1 = verdadero): Segundo valor (0 = falso, 1 = verdadero): [pid 857 | ppid 856] Hi, I'm Mr. Meeseeks! Look at Meeeee. (857, 856, 1, 1)
+[pid 857 | ppid 856] I am evaluating request #1: "O exclusivo (XOR)"
+[pid 857 | ppid 856] Dificultad 90: delego en 1 Meeseeks
+  [pid 858 | ppid 857] Hi, I'm Mr. Meeseeks! Look at Meeeee. (858, 857, 2, 1)
+  [pid 858 | ppid 857] I am executing request #1: O exclusivo (XOR) (1.0 s)
+[pid 857 | ppid 856] Resultado: 1 XOR 1 = 0
+[pid 857 | ppid 856] Solicitud #1 completada. Adios!
+
+===== Meeseeks Box (pid 856) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 1   Completadas: 1   No completadas: 0
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    O exclusivo (XOR)                      1.0015s   0.0012s  completada            2
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

@@ -1,0 +1,180 @@
+
+===== Meeseeks Box (pid 890) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: al azar (0.5 a 5 s)
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: Duracion en segundos (0 = al azar): 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: 0.5 s
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: 
+===== Meeseeks Box (pid 890) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== General (pid 890) =====
+1) Encontrar las llaves de la casa (dificultad 100)
+2) Hacer el sandwich perfecto (dificultad 80)
+3) Aprender a tocar guitarra (dificultad 60)
+4) Ganar un torneo de ajedrez (dificultad 40)
+5) Terminar la tarea de SO a tiempo (dificultad 20)
+6) Solicitud libre
+7) Que Jerry deje de ser Jerry (imposible) (dificultad 0)
+0) Volver
+Opcion: [pid 891 | ppid 890] Hi, I'm Mr. Meeseeks! Look at Meeeee. (891, 890, 1, 1)
+[pid 891 | ppid 890] I am evaluating request #1: "Encontrar las llaves de la casa"
+[pid 891 | ppid 890] Dificultad 100: delego en 1 Meeseeks (dificultad 100 cada uno)
+  [pid 892 | ppid 891] Hi, I'm Mr. Meeseeks! Look at Meeeee. (892, 891, 2, 1)
+  [pid 892 | ppid 891] I am executing request #1 (dificultad 100, 0.5 s)
+  [pid 892 | ppid 891] Listo! Solicitud #1 completada. Gracias por dejarme servirle. Adios!
+[pid 891 | ppid 890] La solicitud la resolvio el Mr. Meeseeks (pid 892, ppid 891, N=2, i=1)
+[pid 891 | ppid 890] Solicitud #1 completada. Adios!
+
+===== Meeseeks Box (pid 890) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== General (pid 890) =====
+1) Encontrar las llaves de la casa (dificultad 100)
+2) Hacer el sandwich perfecto (dificultad 80)
+3) Aprender a tocar guitarra (dificultad 60)
+4) Ganar un torneo de ajedrez (dificultad 40)
+5) Terminar la tarea de SO a tiempo (dificultad 20)
+6) Solicitud libre
+7) Que Jerry deje de ser Jerry (imposible) (dificultad 0)
+0) Volver
+Opcion: [pid 893 | ppid 890] Hi, I'm Mr. Meeseeks! Look at Meeeee. (893, 890, 1, 1)
+[pid 893 | ppid 890] I am evaluating request #2: "Aprender a tocar guitarra"
+[pid 893 | ppid 890] Dificultad 60: delego en 2 Meeseeks (dificultad 70 cada uno)
+  [pid 894 | ppid 893] Hi, I'm Mr. Meeseeks! Look at Meeeee. (894, 893, 2, 1)
+  [pid 894 | ppid 893] I am executing request #2 (dificultad 70, 0.5 s)
+  [pid 895 | ppid 893] Hi, I'm Mr. Meeseeks! Look at Meeeee. (895, 893, 2, 2)
+  [pid 895 | ppid 893] I am executing request #2 (dificultad 70, 0.5 s)
+  [pid 894 | ppid 893] Listo! Solicitud #2 completada. Gracias por dejarme servirle. Adios!
+  [pid 895 | ppid 893] Listo! Solicitud #2 completada. Gracias por dejarme servirle. Adios!
+[pid 893 | ppid 890] La solicitud la resolvio el Mr. Meeseeks (pid 894, ppid 893, N=2, i=1)
+[pid 893 | ppid 890] Solicitud #2 completada. Adios!
+
+===== Meeseeks Box (pid 890) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Aritmetica (pid 890) =====
+1) Sumar dos numeros
+2) Restar dos numeros
+3) Multiplicar dos numeros
+4) Dividir dos numeros
+0) Volver
+Opcion: Primer numero: Segundo numero: [pid 896 | ppid 890] Hi, I'm Mr. Meeseeks! Look at Meeeee. (896, 890, 1, 1)
+[pid 896 | ppid 890] I am evaluating request #3: "Multiplicar dos numeros"
+  [pid 897 | ppid 896] Hi, I'm Mr. Meeseeks! Look at Meeeee. (897, 896, 2, 1)
+  [pid 897 | ppid 896] I am executing request #3: cuento 4 iteraciones
+  [pid 898 | ppid 896] Hi, I'm Mr. Meeseeks! Look at Meeeee. (898, 896, 2, 2)
+  [pid 898 | ppid 896] I am executing request #3: acumulo 6 por iteracion
+[pid 896 | ppid 890] Resultado: 6 * 4 = 24
+[pid 896 | ppid 890] Solicitud #3 completada. Adios!
+
+===== Meeseeks Box (pid 890) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Logica (pid 890) =====
+1) Y (AND) (dificultad 90)
+2) O (OR) (dificultad 90)
+3) O exclusivo (XOR) (dificultad 90)
+4) NO (NOT) (dificultad 90)
+0) Volver
+Opcion: Primer valor (0 = falso, 1 = verdadero): Segundo valor (0 = falso, 1 = verdadero): [pid 899 | ppid 890] Hi, I'm Mr. Meeseeks! Look at Meeeee. (899, 890, 1, 1)
+[pid 899 | ppid 890] I am evaluating request #4: "O exclusivo (XOR)"
+[pid 899 | ppid 890] Dificultad 90: delego en 1 Meeseeks
+  [pid 900 | ppid 899] Hi, I'm Mr. Meeseeks! Look at Meeeee. (900, 899, 2, 1)
+  [pid 900 | ppid 899] I am executing request #4: O exclusivo (XOR) (0.5 s)
+[pid 899 | ppid 890] Resultado: 0 XOR 1 = 1
+[pid 899 | ppid 890] Solicitud #4 completada. Adios!
+
+===== Meeseeks Box (pid 890) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Programas (pid 890) =====
+1) Mostrar la fecha (date)
+2) Listar esta carpeta (ls -l)
+3) Programa que siempre falla (false)
+4) Escribir un comando
+0) Volver
+Opcion: [pid 901 | ppid 890] Hi, I'm Mr. Meeseeks! Look at Meeeee. (901, 890, 1, 1)
+[pid 901 | ppid 890] I am evaluating request #5: "Listar esta carpeta (ls -l)"
+  [pid 902 | ppid 901] Hi, I'm Mr. Meeseeks! Look at Meeeee. (902, 901, 2, 1)
+  [pid 902 | ppid 901] I am executing request #5: ejecuto "ls -l"
+total 288
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   2463 Oct 14 23:17 A1_sandwich.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   6400 Oct 14 23:17 A2_tarea_so.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   2610 Oct 14 23:17 A3_libre.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh 136667 Oct 14 23:17 A4_imposible.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   1451 Oct 14 23:17 B1_resta.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   1654 Oct 14 23:17 B2_division.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   1977 Oct 14 23:17 B3_logica.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   1398 Oct 14 23:17 C1_fecha.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   1377 Oct 14 23:17 C2_falla.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   2402 Oct 14 23:17 C3_comando.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   5336 Oct 14 23:17 X1_integral.txt
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   2042 Oct 14 23:14 exp.py
+-rw-r--r-- 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh   7556 Oct 14 23:16 experimentos.csv
+-rwx------ 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh  39075 Oct 14 23:17 meseeks.c
+-rwxr-xr-x 1 rcw-019v3fpwsgwopzfgzs7hdpxh rcw-019v3fpwsgwopzfgzs7hdpxh  49440 Oct 14 23:17 program
+  [pid 902 | ppid 901] El programa termino con codigo 0 en 0.001 s
+[pid 901 | ppid 890] Codigo 0: el programa termino bien.
+[pid 901 | ppid 890] Solicitud #5 completada. Adios!
+
+===== Meeseeks Box (pid 890) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 5   Completadas: 5   No completadas: 0
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    Encontrar las llaves de la casa        0.5013s   0.0006s  completada            2
+2    Aprender a tocar guitarra              0.5013s   0.0007s  completada            3
+3    Multiplicar dos numeros                0.0007s   0.0007s  completada            3
+4    O exclusivo (XOR)                      0.5009s   0.0007s  completada            2
+5    Listar esta carpeta (ls -l)            0.0021s   0.0021s  completada            2
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

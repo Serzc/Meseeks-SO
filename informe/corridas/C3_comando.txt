@@ -1,0 +1,65 @@
+
+===== Meeseeks Box (pid 879) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Programas (pid 879) =====
+1) Mostrar la fecha (date)
+2) Listar esta carpeta (ls -l)
+3) Programa que siempre falla (false)
+4) Escribir un comando
+0) Volver
+Opcion: Comando (ej. echo hola): [pid 880 | ppid 879] Hi, I'm Mr. Meeseeks! Look at Meeeee. (880, 879, 1, 1)
+[pid 880 | ppid 879] I am evaluating request #1: "Ejecutar: echo Hola desde un programa externo"
+  [pid 881 | ppid 880] Hi, I'm Mr. Meeseeks! Look at Meeeee. (881, 880, 2, 1)
+  [pid 881 | ppid 880] I am executing request #1: ejecuto "echo Hola desde un programa externo"
+Hola desde un programa externo
+  [pid 881 | ppid 880] El programa termino con codigo 0 en 0.001 s
+[pid 880 | ppid 879] Codigo 0: el programa termino bien.
+[pid 880 | ppid 879] Solicitud #1 completada. Adios!
+
+===== Meeseeks Box (pid 879) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Programas (pid 879) =====
+1) Mostrar la fecha (date)
+2) Listar esta carpeta (ls -l)
+3) Programa que siempre falla (false)
+4) Escribir un comando
+0) Volver
+Opcion: Comando (ej. echo hola): [pid 883 | ppid 879] Hi, I'm Mr. Meeseeks! Look at Meeeee. (883, 879, 1, 1)
+[pid 883 | ppid 879] I am evaluating request #2: "Ejecutar: no_existe"
+  [pid 884 | ppid 883] Hi, I'm Mr. Meeseeks! Look at Meeeee. (884, 883, 2, 1)
+  [pid 884 | ppid 883] I am executing request #2: ejecuto "no_existe"
+no_existe: No such file or directory
+  [pid 884 | ppid 883] El programa termino con codigo 127 en 0.000 s
+[pid 883 | ppid 879] Codigo 127: el programa fallo.
+[pid 883 | ppid 879] Solicitud #2 NO completada. Adios!
+
+===== Meeseeks Box (pid 879) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 2   Completadas: 1   No completadas: 1
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    Ejecutar: echo Hola desde un program   0.0014s   0.0014s  completada            2
+2    Ejecutar: no_existe                    0.0008s   0.0008s  no completada         2
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

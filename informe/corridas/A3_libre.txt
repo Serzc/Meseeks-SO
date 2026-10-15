@@ -1,0 +1,68 @@
+
+===== Meeseeks Box (pid 45) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: al azar (0.5 a 5 s)
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: Duracion en segundos (0 = al azar): 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: 1.0 s
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: 
+===== Meeseeks Box (pid 45) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== General (pid 45) =====
+1) Encontrar las llaves de la casa (dificultad 100)
+2) Hacer el sandwich perfecto (dificultad 80)
+3) Aprender a tocar guitarra (dificultad 60)
+4) Ganar un torneo de ajedrez (dificultad 40)
+5) Terminar la tarea de SO a tiempo (dificultad 20)
+6) Solicitud libre
+7) Que Jerry deje de ser Jerry (imposible) (dificultad 0)
+0) Volver
+Opcion: Que necesitas? Dificultad 0-100 (100 = muy facil) o 'r' para dejarlo a la suerte: [pid 46 | ppid 45] Hi, I'm Mr. Meeseeks! Look at Meeeee. (46, 45, 1, 1)
+[pid 46 | ppid 45] I am evaluating request #1: "Aprobar Sistemas Operativos"
+[pid 46 | ppid 45] Lo dejo a mi suerte: dificultad 79
+[pid 46 | ppid 45] Dificultad 79: delego en 2 Meeseeks (dificultad 84 cada uno)
+  [pid 47 | ppid 46] Hi, I'm Mr. Meeseeks! Look at Meeeee. (47, 46, 2, 1)
+  [pid 47 | ppid 46] I am executing request #1 (dificultad 84, 1.0 s)
+  [pid 48 | ppid 46] Hi, I'm Mr. Meeseeks! Look at Meeeee. (48, 46, 2, 2)
+  [pid 48 | ppid 46] I am executing request #1 (dificultad 84, 1.0 s)
+  [pid 47 | ppid 46] Listo! Solicitud #1 completada. Gracias por dejarme servirle. Adios!
+  [pid 48 | ppid 46] Listo! Solicitud #1 completada. Gracias por dejarme servirle. Adios!
+[pid 46 | ppid 45] La solicitud la resolvio el Mr. Meeseeks (pid 47, ppid 46, N=2, i=1)
+[pid 46 | ppid 45] Solicitud #1 completada. Adios!
+
+===== Meeseeks Box (pid 45) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 1   Completadas: 1   No completadas: 0
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    Aprobar Sistemas Operativos            1.0017s   0.0006s  completada            3
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

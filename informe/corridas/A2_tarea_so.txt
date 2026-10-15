@@ -1,0 +1,124 @@
+
+===== Meeseeks Box (pid 17) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: al azar (0.5 a 5 s)
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: Duracion en segundos (0 = al azar): 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: 1.0 s
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: 
+===== Meeseeks Box (pid 17) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== General (pid 17) =====
+1) Encontrar las llaves de la casa (dificultad 100)
+2) Hacer el sandwich perfecto (dificultad 80)
+3) Aprender a tocar guitarra (dificultad 60)
+4) Ganar un torneo de ajedrez (dificultad 40)
+5) Terminar la tarea de SO a tiempo (dificultad 20)
+6) Solicitud libre
+7) Que Jerry deje de ser Jerry (imposible) (dificultad 0)
+0) Volver
+Opcion: [pid 18 | ppid 17] Hi, I'm Mr. Meeseeks! Look at Meeeee. (18, 17, 1, 1)
+[pid 18 | ppid 17] I am evaluating request #1: "Terminar la tarea de SO a tiempo"
+[pid 18 | ppid 17] Dificultad 20: delego en 5 Meeseeks (dificultad 23 cada uno)
+  [pid 19 | ppid 18] Hi, I'm Mr. Meeseeks! Look at Meeeee. (19, 18, 2, 1)
+  [pid 19 | ppid 18] I am executing request #1 (dificultad 23, 1.0 s)
+  [pid 20 | ppid 18] Hi, I'm Mr. Meeseeks! Look at Meeeee. (20, 18, 2, 2)
+  [pid 20 | ppid 18] I am executing request #1 (dificultad 23, 1.0 s)
+  [pid 21 | ppid 18] Hi, I'm Mr. Meeseeks! Look at Meeeee. (21, 18, 2, 3)
+  [pid 21 | ppid 18] I am executing request #1 (dificultad 23, 1.0 s)
+  [pid 22 | ppid 18] Hi, I'm Mr. Meeseeks! Look at Meeeee. (22, 18, 2, 4)
+  [pid 22 | ppid 18] I am executing request #1 (dificultad 23, 1.0 s)
+  [pid 23 | ppid 18] Hi, I'm Mr. Meeseeks! Look at Meeeee. (23, 18, 2, 5)
+  [pid 23 | ppid 18] I am executing request #1 (dificultad 23, 1.0 s)
+  [pid 19 | ppid 18] Listo! Solicitud #1 completada. Gracias por dejarme servirle. Adios!
+  [pid 20 | ppid 18] No pude! Invoco 5 ayudantes (dificultad 26)
+  [pid 21 | ppid 18] Listo! Solicitud #1 completada. Gracias por dejarme servirle. Adios!
+  [pid 22 | ppid 18] No pude! Invoco 5 ayudantes (dificultad 26)
+    [pid 24 | ppid 20] Hi, I'm Mr. Meeseeks! Look at Meeeee. (24, 20, 3, 1)
+    [pid 24 | ppid 20] I am executing request #1 (dificultad 26, 1.0 s)
+  [pid 23 | ppid 18] No pude! Invoco 5 ayudantes (dificultad 26)
+    [pid 27 | ppid 22] Hi, I'm Mr. Meeseeks! Look at Meeeee. (27, 22, 3, 1)
+    [pid 27 | ppid 22] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 29 | ppid 22] Hi, I'm Mr. Meeseeks! Look at Meeeee. (29, 22, 3, 2)
+    [pid 29 | ppid 22] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 30 | ppid 22] Hi, I'm Mr. Meeseeks! Look at Meeeee. (30, 22, 3, 3)
+    [pid 30 | ppid 22] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 31 | ppid 20] Hi, I'm Mr. Meeseeks! Look at Meeeee. (31, 20, 3, 5)
+    [pid 31 | ppid 20] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 32 | ppid 22] Hi, I'm Mr. Meeseeks! Look at Meeeee. (32, 22, 3, 4)
+    [pid 32 | ppid 22] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 33 | ppid 22] Hi, I'm Mr. Meeseeks! Look at Meeeee. (33, 22, 3, 5)
+    [pid 33 | ppid 22] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 27 | ppid 22] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 32 | ppid 22] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 25 | ppid 20] Hi, I'm Mr. Meeseeks! Look at Meeeee. (25, 20, 3, 2)
+    [pid 33 | ppid 22] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 25 | ppid 20] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 30 | ppid 22] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 26 | ppid 20] Hi, I'm Mr. Meeseeks! Look at Meeeee. (26, 20, 3, 3)
+    [pid 26 | ppid 20] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 29 | ppid 22] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 28 | ppid 20] Hi, I'm Mr. Meeseeks! Look at Meeeee. (28, 20, 3, 4)
+    [pid 28 | ppid 20] I am executing request #1 (dificultad 26, 1.0 s)
+  [pid 22 | ppid 18] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 34 | ppid 23] Hi, I'm Mr. Meeseeks! Look at Meeeee. (34, 23, 3, 1)
+    [pid 34 | ppid 23] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 34 | ppid 23] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 35 | ppid 23] Hi, I'm Mr. Meeseeks! Look at Meeeee. (35, 23, 3, 2)
+    [pid 35 | ppid 23] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 35 | ppid 23] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 26 | ppid 20] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 36 | ppid 23] Hi, I'm Mr. Meeseeks! Look at Meeeee. (36, 23, 3, 3)
+    [pid 36 | ppid 23] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 36 | ppid 23] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 28 | ppid 20] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 31 | ppid 20] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 37 | ppid 23] Hi, I'm Mr. Meeseeks! Look at Meeeee. (37, 23, 3, 4)
+    [pid 37 | ppid 23] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 37 | ppid 23] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 25 | ppid 20] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 24 | ppid 20] Otro Meeseeks ya lo resolvio. Adios!
+    [pid 38 | ppid 23] Hi, I'm Mr. Meeseeks! Look at Meeeee. (38, 23, 3, 5)
+    [pid 38 | ppid 23] I am executing request #1 (dificultad 26, 1.0 s)
+    [pid 38 | ppid 23] Otro Meeseeks ya lo resolvio. Adios!
+  [pid 23 | ppid 18] Otro Meeseeks ya lo resolvio. Adios!
+  [pid 20 | ppid 18] Otro Meeseeks ya lo resolvio. Adios!
+[pid 18 | ppid 17] La solicitud la resolvio el Mr. Meeseeks (pid 19, ppid 18, N=2, i=1)
+[pid 18 | ppid 17] Solicitud #1 completada. Adios!
+
+===== Meeseeks Box (pid 17) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 1   Completadas: 1   No completadas: 0
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    Terminar la tarea de SO a tiempo       1.0038s   0.0027s  completada           21
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

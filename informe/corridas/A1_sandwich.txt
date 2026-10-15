@@ -1,0 +1,67 @@
+
+===== Meeseeks Box (pid 9) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: al azar (0.5 a 5 s)
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: Duracion en segundos (0 = al azar): 
+===== Configuracion =====
+1) Tiempo maximo por solicitud: 300 s
+2) Duracion de cada intento: 1.0 s
+3) Al superar el tiempo maximo: caos planetario (terminar todo)
+0) Volver
+Opcion: 
+===== Meeseeks Box (pid 9) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== General (pid 9) =====
+1) Encontrar las llaves de la casa (dificultad 100)
+2) Hacer el sandwich perfecto (dificultad 80)
+3) Aprender a tocar guitarra (dificultad 60)
+4) Ganar un torneo de ajedrez (dificultad 40)
+5) Terminar la tarea de SO a tiempo (dificultad 20)
+6) Solicitud libre
+7) Que Jerry deje de ser Jerry (imposible) (dificultad 0)
+0) Volver
+Opcion: [pid 10 | ppid 9] Hi, I'm Mr. Meeseeks! Look at Meeeee. (10, 9, 1, 1)
+[pid 10 | ppid 9] I am evaluating request #1: "Hacer el sandwich perfecto"
+[pid 10 | ppid 9] Dificultad 80: delego en 2 Meeseeks (dificultad 85 cada uno)
+  [pid 11 | ppid 10] Hi, I'm Mr. Meeseeks! Look at Meeeee. (11, 10, 2, 1)
+  [pid 11 | ppid 10] I am executing request #1 (dificultad 85, 1.0 s)
+  [pid 12 | ppid 10] Hi, I'm Mr. Meeseeks! Look at Meeeee. (12, 10, 2, 2)
+  [pid 12 | ppid 10] I am executing request #1 (dificultad 85, 1.0 s)
+  [pid 11 | ppid 10] Listo! Solicitud #1 completada. Gracias por dejarme servirle. Adios!
+  [pid 12 | ppid 10] Listo! Solicitud #1 completada. Gracias por dejarme servirle. Adios!
+[pid 10 | ppid 9] La solicitud la resolvio el Mr. Meeseeks (pid 11, ppid 10, N=2, i=1)
+[pid 10 | ppid 9] Solicitud #1 completada. Adios!
+
+===== Meeseeks Box (pid 9) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 1   Completadas: 1   No completadas: 0
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    Hacer el sandwich perfecto             1.0018s   0.0007s  completada            3
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

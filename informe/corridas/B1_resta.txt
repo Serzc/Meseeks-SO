@@ -1,0 +1,41 @@
+
+===== Meeseeks Box (pid 839) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+===== Aritmetica (pid 839) =====
+1) Sumar dos numeros
+2) Restar dos numeros
+3) Multiplicar dos numeros
+4) Dividir dos numeros
+0) Volver
+Opcion: Primer numero: Segundo numero: [pid 840 | ppid 839] Hi, I'm Mr. Meeseeks! Look at Meeeee. (840, 839, 1, 1)
+[pid 840 | ppid 839] I am evaluating request #1: "Restar dos numeros"
+  [pid 841 | ppid 840] Hi, I'm Mr. Meeseeks! Look at Meeeee. (841, 840, 2, 1)
+  [pid 841 | ppid 840] I am executing request #1: distancia entre 3 y 8 = 5
+  [pid 842 | ppid 840] Hi, I'm Mr. Meeseeks! Look at Meeeee. (842, 840, 2, 2)
+  [pid 842 | ppid 840] I am executing request #1: el signo de 3 - 8 es -
+[pid 840 | ppid 839] Resultado: 3 - 8 = -5
+[pid 840 | ppid 839] Solicitud #1 completada. Adios!
+
+===== Meeseeks Box (pid 839) =====
+1) General...
+2) Aritmetica...
+3) Logica...
+4) Programas...
+5) Configuracion...
+0) Salir
+Opcion: 
+Adios!
+
+=================== INFORME DE LA MEESEEKS BOX ===================
+Solicitudes: 1   Completadas: 1   No completadas: 0
+
+#    Solicitud                              T.total    T.real  Estado         Meeseeks
+1    Restar dos numeros                     0.0006s   0.0006s  completada            3
+T.real = tiempo total sin las esperas simuladas de los intentos (- = no hubo ruta ganadora)
+==================================================================

@@ -1,0 +1,253 @@
+exp,config,nombre,total,real,estado,meeseeks
+E1,100,Encontrar las llaves de la casa,0.5015,0.0009,completada,2
+E1,100,Encontrar las llaves de la casa,0.5013,0.0008,completada,2
+E1,100,Encontrar las llaves de la casa,0.5019,0.0012,completada,2
+E1,100,Encontrar las llaves de la casa,0.5019,0.0013,completada,2
+E1,100,Encontrar las llaves de la casa,0.5013,0.0008,completada,2
+E1,100,Encontrar las llaves de la casa,0.5014,0.0008,completada,2
+E1,100,Encontrar las llaves de la casa,0.5015,0.0009,completada,2
+E1,100,Encontrar las llaves de la casa,0.5027,0.002,completada,2
+E1,100,Encontrar las llaves de la casa,0.5031,0.0025,completada,2
+E1,100,Encontrar las llaves de la casa,0.5013,0.0007,completada,2
+E1,100,Encontrar las llaves de la casa,0.502,0.0012,completada,2
+E1,100,Encontrar las llaves de la casa,0.5021,0.0014,completada,2
+E1,100,Encontrar las llaves de la casa,0.5014,0.0007,completada,2
+E1,100,Encontrar las llaves de la casa,0.5014,0.0007,completada,2
+E1,100,Encontrar las llaves de la casa,0.5012,0.0006,completada,2
+E1,100,Encontrar las llaves de la casa,0.5014,0.0008,completada,2
+E1,100,Encontrar las llaves de la casa,0.5014,0.0008,completada,2
+E1,100,Encontrar las llaves de la casa,0.5013,0.0007,completada,2
+E1,100,Encontrar las llaves de la casa,0.5016,0.0009,completada,2
+E1,100,Encontrar las llaves de la casa,0.5014,0.0008,completada,2
+E1,80,Hacer el sandwich perfecto,0.5028,0.0019,completada,3
+E1,80,Hacer el sandwich perfecto,0.5027,0.0021,completada,3
+E1,80,Hacer el sandwich perfecto,0.5013,0.0007,completada,3
+E1,80,Hacer el sandwich perfecto,0.5014,0.0008,completada,3
+E1,80,Hacer el sandwich perfecto,0.5019,0.0013,completada,5
+E1,80,Hacer el sandwich perfecto,0.5014,0.0008,completada,3
+E1,80,Hacer el sandwich perfecto,0.5016,0.001,completada,3
+E1,80,Hacer el sandwich perfecto,0.5017,0.0012,completada,5
+E1,80,Hacer el sandwich perfecto,0.5018,0.0013,completada,5
+E1,80,Hacer el sandwich perfecto,0.5013,0.0007,completada,3
+E1,80,Hacer el sandwich perfecto,0.5017,0.0012,completada,5
+E1,80,Hacer el sandwich perfecto,0.5013,0.0008,completada,3
+E1,80,Hacer el sandwich perfecto,0.5013,0.0008,completada,3
+E1,80,Hacer el sandwich perfecto,0.5015,0.0009,completada,3
+E1,80,Hacer el sandwich perfecto,0.5014,0.0009,completada,3
+E1,80,Hacer el sandwich perfecto,0.5014,0.0007,completada,3
+E1,80,Hacer el sandwich perfecto,0.5014,0.0007,completada,3
+E1,80,Hacer el sandwich perfecto,0.5014,0.0007,completada,3
+E1,80,Hacer el sandwich perfecto,0.5014,0.0008,completada,3
+E1,80,Hacer el sandwich perfecto,0.5014,0.0007,completada,3
+E1,60,Aprender a tocar guitarra,0.5018,0.0012,completada,5
+E1,60,Aprender a tocar guitarra,0.5014,0.0008,completada,3
+E1,60,Aprender a tocar guitarra,1.0048,0.0036,completada,9
+E1,60,Aprender a tocar guitarra,0.5023,0.0022,completada,3
+E1,60,Aprender a tocar guitarra,0.5027,0.0021,completada,5
+E1,60,Aprender a tocar guitarra,0.5012,0.0007,completada,3
+E1,60,Aprender a tocar guitarra,0.5014,0.0007,completada,3
+E1,60,Aprender a tocar guitarra,0.5013,0.0007,completada,3
+E1,60,Aprender a tocar guitarra,0.502,0.0014,completada,5
+E1,60,Aprender a tocar guitarra,1.0044,0.0025,completada,7
+E1,60,Aprender a tocar guitarra,0.5034,0.0028,completada,5
+E1,60,Aprender a tocar guitarra,0.5013,0.0007,completada,3
+E1,60,Aprender a tocar guitarra,1.004,0.0027,completada,9
+E1,60,Aprender a tocar guitarra,0.5024,0.0018,completada,5
+E1,60,Aprender a tocar guitarra,0.5053,0.0045,completada,5
+E1,60,Aprender a tocar guitarra,0.5031,0.0024,completada,5
+E1,60,Aprender a tocar guitarra,1.0023,0.0013,completada,7
+E1,60,Aprender a tocar guitarra,0.5013,0.0008,completada,3
+E1,60,Aprender a tocar guitarra,0.5013,0.0007,completada,3
+E1,60,Aprender a tocar guitarra,1.0029,0.0015,completada,9
+E1,40,Ganar un torneo de ajedrez,0.5023,0.0017,completada,11
+E1,40,Ganar un torneo de ajedrez,0.5035,0.0029,completada,21
+E1,40,Ganar un torneo de ajedrez,0.5042,0.0036,completada,21
+E1,40,Ganar un torneo de ajedrez,0.5029,0.0021,completada,16
+E1,40,Ganar un torneo de ajedrez,0.5027,0.0022,completada,11
+E1,40,Ganar un torneo de ajedrez,0.504,0.0034,completada,26
+E1,40,Ganar un torneo de ajedrez,0.5027,0.002,completada,11
+E1,40,Ganar un torneo de ajedrez,0.5016,0.0011,completada,6
+E1,40,Ganar un torneo de ajedrez,0.5017,0.0011,completada,6
+E1,40,Ganar un torneo de ajedrez,0.5032,0.0026,completada,16
+E1,40,Ganar un torneo de ajedrez,0.5064,0.0059,completada,16
+E1,40,Ganar un torneo de ajedrez,0.5035,0.0029,completada,16
+E1,40,Ganar un torneo de ajedrez,0.5041,0.0036,completada,26
+E1,40,Ganar un torneo de ajedrez,0.503,0.0024,completada,16
+E1,40,Ganar un torneo de ajedrez,0.5046,0.0034,completada,26
+E1,40,Ganar un torneo de ajedrez,0.5034,0.0024,completada,21
+E1,40,Ganar un torneo de ajedrez,0.5048,0.0041,completada,26
+E1,40,Ganar un torneo de ajedrez,0.5031,0.0022,completada,16
+E1,40,Ganar un torneo de ajedrez,0.5029,0.0021,completada,16
+E1,40,Ganar un torneo de ajedrez,0.5022,0.0016,completada,11
+E1,20,Terminar la tarea de SO a tiempo,0.5041,0.0027,completada,26
+E1,20,Terminar la tarea de SO a tiempo,0.5021,0.0018,completada,11
+E1,20,Terminar la tarea de SO a tiempo,0.5046,0.004,completada,26
+E1,20,Terminar la tarea de SO a tiempo,0.5046,0.004,completada,21
+E1,20,Terminar la tarea de SO a tiempo,0.5043,0.0037,completada,26
+E1,20,Terminar la tarea de SO a tiempo,1.0231,0.0146,completada,146
+E1,20,Terminar la tarea de SO a tiempo,1.0177,0.0164,completada,126
+E1,20,Terminar la tarea de SO a tiempo,0.5024,0.0017,completada,11
+E1,20,Terminar la tarea de SO a tiempo,1.0185,0.0159,completada,136
+E1,20,Terminar la tarea de SO a tiempo,1.0186,0.0174,completada,141
+E1,20,Terminar la tarea de SO a tiempo,0.5095,0.006,completada,21
+E1,20,Terminar la tarea de SO a tiempo,0.5048,0.0037,completada,26
+E1,20,Terminar la tarea de SO a tiempo,0.5039,0.0027,completada,21
+E1,20,Terminar la tarea de SO a tiempo,0.5047,0.0035,completada,26
+E1,20,Terminar la tarea de SO a tiempo,0.5035,0.0028,completada,21
+E1,20,Terminar la tarea de SO a tiempo,0.5048,0.0038,completada,26
+E1,20,Terminar la tarea de SO a tiempo,0.5036,0.0026,completada,21
+E1,20,Terminar la tarea de SO a tiempo,0.5048,0.0038,completada,21
+E1,20,Terminar la tarea de SO a tiempo,0.5056,0.0051,completada,26
+E1,20,Terminar la tarea de SO a tiempo,1.0194,0.0179,completada,146
+E1,1,Solicitud libre d=1,0.5043,0.0039,completada,26
+E1,1,Solicitud libre d=1,1.0198,0.0148,completada,146
+E1,1,Solicitud libre d=1,0.5045,0.0033,completada,26
+E1,1,Solicitud libre d=1,1.0266,0.0253,completada,131
+E1,1,Solicitud libre d=1,1.0267,0.0114,completada,146
+E1,1,Solicitud libre d=1,1.0217,0.0149,completada,151
+E1,1,Solicitud libre d=1,1.0189,0.0142,completada,146
+E1,1,Solicitud libre d=1,1.0186,0.0136,completada,141
+E1,1,Solicitud libre d=1,1.0193,0.0161,completada,151
+E1,1,Solicitud libre d=1,0.5041,0.0034,completada,26
+E1,1,Solicitud libre d=1,1.0163,0.0152,completada,126
+E1,1,Solicitud libre d=1,1.039,0.0376,completada,141
+E1,1,Solicitud libre d=1,1.0154,0.0143,completada,116
+E1,1,Solicitud libre d=1,1.0176,0.0136,completada,131
+E1,1,Solicitud libre d=1,1.0208,0.0185,completada,151
+E1,1,Solicitud libre d=1,1.6194,0.1014,completada,716
+E1,1,Solicitud libre d=1,1.0199,0.0136,completada,151
+E1,1,Solicitud libre d=1,1.0204,0.012,completada,146
+E1,1,Solicitud libre d=1,1.0198,0.0178,completada,151
+E1,1,Solicitud libre d=1,0.5041,0.0026,completada,26
+E1,0,Solicitud libre d=0,2.9121,,no completada,3906
+E1,0,Solicitud libre d=0,2.782,,no completada,3906
+E1,0,Solicitud libre d=0,2.8021,,no completada,3906
+E1,0,Solicitud libre d=0,2.8278,,no completada,3906
+E1,0,Solicitud libre d=0,2.8253,,no completada,3906
+E1,0,Solicitud libre d=0,2.8156,,no completada,3906
+E1,0,Solicitud libre d=0,2.8277,,no completada,3906
+E1,0,Solicitud libre d=0,2.7992,,no completada,3906
+E1,0,Solicitud libre d=0,2.7916,,no completada,3906
+E1,0,Solicitud libre d=0,2.7961,,no completada,3906
+E1,0,Solicitud libre d=0,2.8094,,no completada,3906
+E1,0,Solicitud libre d=0,2.8427,,no completada,3906
+E1,0,Solicitud libre d=0,2.8175,,no completada,3906
+E1,0,Solicitud libre d=0,2.8894,,no completada,3906
+E1,0,Solicitud libre d=0,2.8254,,no completada,3906
+E1,0,Solicitud libre d=0,2.9192,,no completada,3906
+E1,0,Solicitud libre d=0,2.8244,,no completada,3906
+E1,0,Solicitud libre d=0,2.8337,,no completada,3906
+E1,0,Solicitud libre d=0,2.8164,,no completada,3906
+E1,0,Solicitud libre d=0,2.8076,,no completada,3906
+E2,80,Hacer el sandwich perfecto,1.3592,0.0008,completada,3
+E2,80,Hacer el sandwich perfecto,1.6087,0.001,completada,5
+E2,80,Hacer el sandwich perfecto,3.3164,0.001,completada,5
+E2,80,Hacer el sandwich perfecto,1.8387,0.0008,completada,3
+E2,80,Hacer el sandwich perfecto,4.1512,0.001,completada,5
+E2,80,Hacer el sandwich perfecto,2.6943,0.0014,completada,5
+E2,80,Hacer el sandwich perfecto,1.7737,0.0009,completada,3
+E2,80,Hacer el sandwich perfecto,1.918,0.001,completada,3
+E2,80,Hacer el sandwich perfecto,3.4935,0.0009,completada,3
+E2,80,Hacer el sandwich perfecto,1.9178,0.0008,completada,3
+E2,40,Ganar un torneo de ajedrez,1.9186,0.0016,completada,11
+E2,40,Ganar un torneo de ajedrez,0.8375,0.0015,completada,6
+E2,40,Ganar un torneo de ajedrez,0.8369,0.001,completada,6
+E2,40,Ganar un torneo de ajedrez,1.2447,0.0013,completada,6
+E2,40,Ganar un torneo de ajedrez,1.2951,0.0017,completada,11
+E2,40,Ganar un torneo de ajedrez,1.5517,0.002,completada,11
+E2,40,Ganar un torneo de ajedrez,0.9799,0.0008,completada,6
+E2,40,Ganar un torneo de ajedrez,1.9137,0.0026,completada,16
+E2,40,Ganar un torneo de ajedrez,0.8449,0.0009,completada,6
+E2,40,Ganar un torneo de ajedrez,0.5828,0.0012,completada,6
+E2,20,Terminar la tarea de SO a tiempo,2.6717,0.001,completada,6
+E2,20,Terminar la tarea de SO a tiempo,1.8429,0.0009,completada,6
+E2,20,Terminar la tarea de SO a tiempo,2.7554,0.0045,completada,46
+E2,20,Terminar la tarea de SO a tiempo,2.4963,0.0018,completada,16
+E2,20,Terminar la tarea de SO a tiempo,2.397,0.0015,completada,11
+E2,20,Terminar la tarea de SO a tiempo,1.5497,0.0019,completada,11
+E2,20,Terminar la tarea de SO a tiempo,3.7087,0.001,completada,6
+E2,20,Terminar la tarea de SO a tiempo,0.9392,0.0016,completada,6
+E2,20,Terminar la tarea de SO a tiempo,3.7098,0.002,completada,16
+E2,20,Terminar la tarea de SO a tiempo,1.4895,0.0008,completada,6
+E3,-,Sumar dos numeros,0.0006,0.0006,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Sumar dos numeros,0.0006,0.0006,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Sumar dos numeros,0.0005,0.0005,completada,2
+E3,-,Restar dos numeros,0.0005,0.0005,completada,3
+E3,-,Restar dos numeros,0.0005,0.0005,completada,3
+E3,-,Restar dos numeros,0.0006,0.0006,completada,3
+E3,-,Restar dos numeros,0.0005,0.0005,completada,3
+E3,-,Restar dos numeros,0.0005,0.0005,completada,3
+E3,-,Restar dos numeros,0.0006,0.0006,completada,3
+E3,-,Restar dos numeros,0.0005,0.0005,completada,3
+E3,-,Restar dos numeros,0.0008,0.0008,completada,3
+E3,-,Restar dos numeros,0.0011,0.0011,completada,3
+E3,-,Restar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0005,0.0005,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Multiplicar dos numeros,0.0005,0.0005,completada,3
+E3,-,Multiplicar dos numeros,0.0006,0.0006,completada,3
+E3,-,Dividir dos numeros,0.0008,0.0008,completada,4
+E3,-,Dividir dos numeros,0.0008,0.0008,completada,4
+E3,-,Dividir dos numeros,0.0007,0.0007,completada,4
+E3,-,Dividir dos numeros,0.0007,0.0007,completada,4
+E3,-,Dividir dos numeros,0.0007,0.0007,completada,4
+E3,-,Dividir dos numeros,0.0008,0.0008,completada,4
+E3,-,Dividir dos numeros,0.0007,0.0007,completada,4
+E3,-,Dividir dos numeros,0.0009,0.0009,completada,4
+E3,-,Dividir dos numeros,0.0009,0.0009,completada,4
+E3,-,Dividir dos numeros,0.0008,0.0008,completada,4
+E3,-,Y (AND),0.5008,0.0006,completada,2
+E3,-,Y (AND),0.5008,0.0007,completada,2
+E3,-,Y (AND),0.5009,0.0007,completada,2
+E3,-,Y (AND),0.5009,0.0006,completada,2
+E3,-,Y (AND),0.5008,0.0007,completada,2
+E3,-,Mostrar la fecha (date),0.0019,0.0019,completada,2
+E3,-,Mostrar la fecha (date),0.0015,0.0015,completada,2
+E3,-,Mostrar la fecha (date),0.0014,0.0014,completada,2
+E3,-,Mostrar la fecha (date),0.0014,0.0014,completada,2
+E3,-,Mostrar la fecha (date),0.0013,0.0013,completada,2
+E3,-,Mostrar la fecha (date),0.0015,0.0015,completada,2
+E3,-,Mostrar la fecha (date),0.0013,0.0013,completada,2
+E3,-,Mostrar la fecha (date),0.0013,0.0013,completada,2
+E3,-,Mostrar la fecha (date),0.0013,0.0013,completada,2
+E3,-,Mostrar la fecha (date),0.0013,0.0013,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0019,0.0019,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0021,0.0021,completada,2
+E3,-,Listar esta carpeta (ls -l),0.002,0.002,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0019,0.0019,completada,2
+E3,-,Listar esta carpeta (ls -l),0.002,0.002,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0018,0.0018,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0017,0.0017,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0016,0.0016,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0016,0.0016,completada,2
+E3,-,Listar esta carpeta (ls -l),0.0017,0.0017,completada,2
+E3,-,Programa que siempre falla (false),0.0013,0.0013,no completada,2
+E3,-,Programa que siempre falla (false),0.0012,0.0012,no completada,2
+E3,-,Programa que siempre falla (false),0.0012,0.0012,no completada,2
+E3,-,Programa que siempre falla (false),0.0011,0.0011,no completada,2
+E3,-,Programa que siempre falla (false),0.0011,0.0011,no completada,2
+E3,-,Programa que siempre falla (false),0.0014,0.0014,no completada,2
+E3,-,Programa que siempre falla (false),0.0011,0.0011,no completada,2
+E3,-,Programa que siempre falla (false),0.0011,0.0011,no completada,2
+E3,-,Programa que siempre falla (false),0.0011,0.0011,no completada,2
+E3,-,Programa que siempre falla (false),0.0011,0.0011,no completada,2
+E4,seguir d=1,Muy dificil d=1,3.402,0.0043,completada,41
+E4,seguir d=1,Muy dificil d=1,5.3554,0.0049,completada,61
+E4,seguir d=1,Muy dificil d=1,2.6849,0.0049,completada,46
+E4,seguir d=0,Muy dificil d=0,23.0849,,no completada,3906
+E4,seguir d=0,Muy dificil d=0,22.1004,,no completada,3906
+E4,seguir d=0,Muy dificil d=0,22.1343,,no completada,3906
+E4,caos d=0,Que Jerry deje de ser Jerry (imposib,3.0016,,caos,46
